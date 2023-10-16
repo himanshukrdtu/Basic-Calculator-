@@ -1,4 +1,4 @@
-
+ 
 *{
      margin:0px;
      padding:0px;
@@ -19,13 +19,14 @@ body{
     height:100vh;
     display:flex;
     flex-direction:column;
-    align-items: center;
+    align-items:center;
     justify-content:center;
     background: linear-gradient(to right,rgb(65, 1, 1),rgb(1, 2, 36));
 }
 .continer{
     /* width: 250px; */
     /* height: 400px; */
+    
     padding: 15px;
     /* background-color: rgb(245, 175, 166); */
     background-color: rgb(201, 139, 139);
@@ -70,6 +71,6 @@ p{
     width: 124px;
 }
 .footer{
-    margin-top: 100px;
+    margin-bottom:0px;
     color:white;
 }
